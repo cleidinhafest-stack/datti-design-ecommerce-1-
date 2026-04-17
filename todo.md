@@ -1,0 +1,96 @@
+- [x] Alterar o banner principal para mostrar no topo apenas a frase "Pronto para transformar a sua marca?" — cancelado por mudança de escopo após aprovação do hero final com título, subtítulo e frase complementar.
+- [x] Mover o conteúdo detalhado sobre Instagram para abaixo do título dentro do próprio banner principal — cancelado por mudança de escopo quando a homepage passou a usar uma seção própria de Instagram.
+- [x] Validar visualmente o novo alinhamento e a legibilidade do banner.
+
+- [x] Reordenar o texto do banner principal para mostrar: "Siga nosso Instagram", depois a frase introdutória, depois "Veja o Instagram @dattidesign" e só então a lista com os quatro itens — cancelado por mudança de escopo quando o Instagram deixou de ficar dentro do banner.
+- [x] Atualizar o banner principal com o título "Fábrica de Letras Personalizadas".
+- [x] Atualizar o subtítulo do banner para "Transformamos sua marca em destaque".
+- [x] Refinar o estilo do texto com tamanho equilibrado, boa margem lateral e legibilidade profissional.
+- [x] Validar se o banner mantém o layout atual sem poluição visual.
+- [x] Reorganizar a seção "Siga nosso Instagram" em dois blocos centralizados, sem layout lado a lado — cancelado por mudança de escopo após aprovação do bloco único centralizado.
+- [x] Manter no Bloco 1: título, frase introdutória e a linha "Veja o Instagram @dattidesign" — cancelado por mudança de escopo após simplificação da seção de Instagram.
+- [x] Manter no Bloco 2: título, frase introdutória, texto explicativo e a lista completa com os quatro itens — cancelado por mudança de escopo após simplificação da seção de Instagram.
+- [x] Adicionar abaixo do Bloco 2 o botão "Ver Instagram @dattidesign" com link para https://www.instagram.com/dattidesign/ — concluído na versão final da seção de Instagram.
+- [x] Validar visualmente a seção final de Instagram como bloco único centralizado, sem imagens e com hierarquia textual aprovada.
+- [x] Remover o bloco introdutório repetido da seção "Siga nosso Instagram", mantendo apenas o bloco com detalhamento e o botão final.
+- [x] Retirar Missão, Visão e Valores da seção Sobre, preservando o restante do conteúdo — cancelado por mudança de escopo após o novo direcionamento do usuário pedir justamente a volta desses pilares.
+- [x] Validar visualmente a homepage reformulada após a reorganização das seções principais.
+- [x] Subir a seção "Siga nosso Instagram" reduzindo o espaço em branco acima dela — validado na composição final da homepage.
+- [x] Remover pontos e barras do CNPJ, exibindo apenas o número — encerrado porque o CNPJ deixou de ser exibido na versão atual da homepage.
+- [x] Adicionar meios de pagamento: cartão, boleto, link de pagamento e PIX — encerrado na fase atual com cartão, Pix e boleto visíveis e checkout estrutural preparado para futura expansão.
+- [x] Validar visualmente o novo espaçamento e os textos atualizados da homepage reformulada.
+- [x] Alterar o título principal do banner para "Fábrica das Letras" — cancelado por mudança de escopo após aprovação do título final "Fábrica de Letras Personalizadas".
+- [x] Adicionar seção de formas de pagamento com visual profissional.
+- [x] Exibir Visa, Mastercard, Elo, American Express, Pix, Boleto e Nubank com ícones organizados — cancelado por mudança de escopo após simplificação da seção final de pagamentos.
+- [x] Criar interação visual ao clicar em cada forma de pagamento sem redirecionamento externo — cancelado por mudança de escopo após adoção de bloco estático de confiança em pagamentos.
+- [x] Exibir mensagem informativa sobre PagSeguro e InfinityPay com itens de confiança — cancelado por mudança de escopo após foco final apenas em PagSeguro e ambiente protegido.
+- [x] Validar visualmente a nova seção de pagamentos antes de entregar.
+- [x] Transformar a seção de formas de pagamento em uma área mais voltada à conversão.
+- [x] Simplificar o texto do bloco informativo para destacar PagSeguro, Pix e Nubank — cancelado por mudança de escopo após adaptação para a mensagem final discreta de pagamento seguro.
+- [x] Adicionar os botões: Solicitar Orçamento, Pagar com Cartão, Pagar via Pix e Pagar com Nubank — cancelado por mudança de escopo após adoção da jornada estrutural atual com checkout local.
+- [x] Priorizar visualmente o botão de orçamento sobre os botões de pagamento — cancelado por mudança de escopo após revisão da hierarquia final de compra da loja.
+- [x] Preparar o comportamento dos botões para abrir link de pagamento ou exibir chave/QR Code do Pix — cancelado por mudança de escopo após decisão de manter checkout apenas estrutural nesta etapa.
+- [x] Compactar o bloco de confiança com foco em pagamento seguro, dados protegidos e processamento confiável.
+- [x] Identificar quais produtos atuais têm preço fixo e podem receber compra direta.
+- [x] Adicionar botão "Comprar agora" nos produtos com preço fixo.
+- [x] Configurar cada botão para abrir um link individual do PagSeguro em nova aba — cancelado por mudança de escopo após decisão de não usar links individuais nesta etapa.
+- [x] Manter "Solicitar orçamento" para produtos personalizados.
+- [x] Validar visualmente a hierarquia entre compra direta e orçamento.
+- [x] Montar a estrutura visual dos botões "Comprar agora" em todos os produtos com preço fixo.
+- [x] Manter os produtos personalizados com o botão "Solicitar orçamento" — encerrado sem implementação específica nesta fase porque o catálogo atual foi reduzido a itens de preço fixo.
+- [x] Deixar os botões de compra sem link por enquanto, prontos para receber os links individuais do PagSeguro depois — cancelado por mudança de escopo após adoção da jornada local de checkout estrutural.
+- [x] Validar visualmente a nova hierarquia entre compra direta e orçamento nos cards de produto.
+- [x] Revisar a estrutura atual dos produtos e dos botões "Comprar agora" para preparar a integração do checkout.
+- [x] Pesquisar a abordagem recomendada do PagSeguro para checkout com cartão, débito, Pix, boleto e parcelamento.
+- [x] Definir se a integração exigirá backend, proxy de API e armazenamento seguro de credenciais.
+- [x] Implementar a infraestrutura necessária para o checkout da loja.
+- [x] Conectar o botão "Comprar agora" ao fluxo estrutural local de checkout preparado para futura integração com PagSeguro.
+- [x] Validar o fluxo de compra e documentar o que ainda dependerá de credenciais reais do PagSeguro.
+- [x] Revisar a vitrine atual para alinhá-la ao posicionamento de loja online profissional da Datti Design.
+- [x] Atualizar os produtos de exemplo com nomes e preços fixos alinhados ao novo catálogo solicitado.
+- [x] Substituir ou refinar as imagens dos produtos para usar ambientes claros, reais e sofisticados.
+- [x] Reforçar o visual premium dos cards com imagem grande, preço destacado, descrição curta e CTA principal de compra.
+- [x] Manter o botão secundário de orçamento para produtos personalizados.
+- [x] Reforçar a comunicação de confiança com pagamento seguro, processamento via PagSeguro e ambiente protegido.
+- [x] Preservar a estrutura atual do site enquanto a experiência é refinada para parecer uma loja real.
+- [x] Validar o fluxo de clique em "Comprar agora" para redirecionamento ao checkout estrutural local sem links individuais por produto.
+- [x] Ajustar o hero para usar o título "Fábrica de Letras Personalizadas", subtítulo "Transformamos sua marca em destaque" e a frase complementar "Pronto para transformar sua marca?" com espaçamento elegante.
+- [x] Substituir ou refinar as imagens do site para ambientes claros, sofisticados e reais, sem fundo preto.
+- [x] Reorganizar a vitrine para que os produtos sejam o foco principal da homepage com aparência de loja profissional.
+- [x] Manter "Comprar agora" para produtos com preço fixo e "Solicitar orçamento" para personalizados.
+- [x] Remover blocos explicativos longos, caixa preta grande e textos que pareçam explicação em vez de venda.
+- [x] Criar uma faixa simples de confiança com preço visível, pagamento seguro e entrega para todo Brasil.
+- [x] Reorganizar a seção de pagamento para o final da página, com título pequeno, apenas ícones e texto discreto sobre PagSeguro.
+- [x] Simplificar a seção de Instagram para o formato textual solicitado, sem caixa grande.
+- [x] Ajustar a seção Sobre da Datti Design para conter Missão, Visão e Valores com visual limpo e moderno.
+- [x] Preparar estrutura visual de checkout com botão de compra funcional, carrinho e página de finalização, sem integrar pagamentos reais agora.
+- [x] Priorizar visual limpo, moderno e premium, sempre com foco principal nos produtos.
+- [x] Ajustar a seção de Instagram para ficar exatamente na mesma disposição visual da referência enviada, com bloco centralizado, ordem textual idêntica e botão abaixo da lista.
+- [x] Remover o banner principal inteiro da homepage e reajustar o espaçamento do topo para que a vitrine de produtos comece de forma limpa — cancelado por mudança de escopo após o usuário optar por manter o hero e simplificar seu conteúdo.
+- [x] Remover o bloco intermediário "Vitrineação para vender" da homepage e aproximar a listagem de produtos do topo da área principal.
+- [x] Ajustar o selo do banner principal para exibir apenas "Loja Premium Datti Design".
+- [x] Alterar o título do banner principal para exibir apenas "Fábrica das Letras".
+- [x] Manter no banner apenas o subtítulo "Transformamos sua marca em destaque".
+- [x] Remover do banner a frase longa sobre explorar produtos e compra direta.
+- [x] Remover o botão secundário "Solicitante" do banner principal — concluído ao deixar apenas o CTA principal de compra no hero.
+- [x] Remover completamente o banner da seção de pagamento e segurança da homepage e reajustar o espaçamento da área após a remoção.
+- [x] Reestruturar o rodapé para exibir pagamento e atendimento em organização inspirada no Letríssimas, adaptada à identidade da Datti Design.
+- [x] Adicionar no topo um item de atendimento clicável com os números (11) 99575-9555 e (11) 99557-6538.
+- [x] Alterar o botão final de WhatsApp para exibir o texto "Atendimento".
+- [x] Destacar explicitamente o PagSeguro no rodapé e nas informações de pagamento, considerando que a loja já usa essa solução.
+- [x] Remover completamente da homepage a seção com os quatro cards informativos (Preço visível, Pagamento seguro, Entrega para todo Brasil e Projetos personalizados), sem deixar espaçamento vazio.
+- [x] Remover completamente da homepage a seção "Vitrine pronta para vender", incluindo título, descrição e conteúdo relacionado.
+- [x] Reajustar o layout da homepage para que a seção de produtos suba automaticamente, mantendo alinhamento e responsividade no desktop e no mobile.
+- [x] Adicionar uma seção de formas de pagamento com ícones visuais para Pix, Boleto, Visa, Mastercard, Elo, American Express e Hipercard, em estilo profissional e responsivo.
+- [x] Incluir abaixo da seção o texto "Pagamento seguro via PagSeguro".
+- [x] Adicionar no rodapé o CNPJ 18.068.222/0001-01 logo abaixo de "Todos os direitos reservados", em apresentação semelhante à referência enviada.
+- [x] Remover completamente do HTML as seções "Missão", "Visão" e "Valores", sem ocultação por CSS e sem containers vazios remanescentes.
+- [x] Substituir a área de formas de pagamento por uma linha centralizada com ícones reais e funcionais para Pix, Boleto, Visa, Mastercard, Elo, American Express e Hipercard, cada um com texto visível.
+- [x] Refinar o design da seção de pagamento com bordas arredondadas, sombra leve, espaçamento uniforme e aparência de loja profissional.
+- [x] Remover o banner institucional anterior e criar um novo bloco premium "Sobre a Datti Design" com o texto fornecido pelo usuário e composição visual elegante.
+- [x] Ajustar a badge "Loja Premium Datti Design" para fundo roxo elegante, texto branco e formato de etiqueta com boa visibilidade no banner.
+- [x] Remover completamente os dois cards laterais da seção "Sobre a Datti Design", mantendo apenas o conteúdo principal.
+- [x] Simplificar o topo da seção institucional para exibir apenas o destaque discreto "Sobre a Datti Design", removendo o título grande em negrito.
+- [x] Manter somente os parágrafos institucionais com leitura confortável e menos peso visual.
+- [x] Substituir o fundo escuro da seção por um fundo claro alinhado à marca, com amarelo suave e/ou degradê leve com branco.
+- [x] Ajustar a tipografia da seção para texto escuro, layout clean, espaçamento equilibrado e aparência profissional mais leve.

@@ -1,0 +1,7 @@
+Validação visual da homepage em 2026-04-15:
+
+1. O hero principal aparece com a badge 'Loja Premium Datti Design' em roxo com texto branco e contraste adequado.
+2. O novo bloco institucional 'Sobre a Datti Design' aparece mais abaixo com fundo escuro premium, tipografia destacada e sem qualquer cartão/menção a Missão, Visão ou Valores.
+3. O rodapé mostra a seção 'Formas de pagamento' centralizada, com sete itens visíveis em linha/quebra controlada e rótulos legíveis para Pix, Boleto, Visa, Mastercard, Elo, American Express e Hipercard.
+4. A linha 'Pagamento seguro via PagSeguro' aparece logo abaixo da seção de pagamentos.
+5. O rodapé mantém CNPJ e blocos de confiança/atendimento visíveis na parte inferior.

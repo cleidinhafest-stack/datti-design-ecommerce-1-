@@ -1,0 +1,7 @@
+Validação visual da seção 'Sobre a Datti Design' em 2026-04-15:
+
+1. A seção aparece com fundo claro em amarelo suave/branco, sem bloco escuro pesado.
+2. Os dois cards laterais foram removidos; permanece apenas o conteúdo textual principal.
+3. O topo mostra apenas o destaque discreto 'Sobre a Datti Design'.
+4. O texto principal está em cor escura, com leitura confortável e espaçamento mais leve.
+5. A seção ficou visualmente mais limpa, alinhada à identidade amarela da marca e sem poluição visual.
